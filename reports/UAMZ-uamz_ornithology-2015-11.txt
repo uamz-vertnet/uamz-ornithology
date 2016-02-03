@@ -1,0 +1,89 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 9
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Russia ; Times: 6
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elf" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 751 download events in this period)
+Total number of records downloaded: 8219
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 24
+	Country: Belgium ; Times: 3
+	Country: Japan ; Times: 5
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-30 ; Times: 5
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-29 ; Times: 2
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-02 ; Times: 4
+	Date: 2015-11-23 ; Times: 4
+	Date: 2015-11-12 ; Times: 6
+	Date: 2015-11-20 ; Times: 4
+	Date: 2015-11-21 ; Times: 2
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "family:Anhimidae preparations:skeleton" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "class:Aves country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "genus:Oxyura preparations:skeleton" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Branta preparations:skeleton" ; Times: 1
+	Query: "puffinus" ; Times: 1
+	Query: "genus:Bucephala preparations:skeleton" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "genus:Anas preparations:skeleton" ; Times: 1
+	Query: "institutioncode:UAMZ" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 12
+	Query: "Mozambique Aves" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "common myna" ; Times: 2
+	Query: "genus:Aythya preparations:skeleton" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "(AM Ornithology)" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "acridotheres tristis" ; Times: 1
+
+
+End of report.
