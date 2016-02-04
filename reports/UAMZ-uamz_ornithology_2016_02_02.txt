@@ -1,0 +1,66 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 29
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Russia ; Times: 3
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-18 ; Times: 4
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elf" ; Times: 6
+	Query: "long eared owl" ; Times: 1
+	Query: "impennis stateprovince:"newfoundland"" ; Times: 2
+	Query: "Bubo scandiacus wing" ; Times: 1
+	Query: "Dendroica tigrina egg" ; Times: 3
+	Query: "Boreal Owl" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 14
+Total number of records retrieved from searches: 29
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
