@@ -1,0 +1,65 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 29
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-18 ; Times: 4
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elf" ; Times: 6
+	Query: "long eared owl" ; Times: 1
+	Query: "impennis stateprovince:&#34;newfoundland&#34;" ; Times: 2
+	Query: "Bubo scandiacus wing" ; Times: 1
+	Query: "Dendroica tigrina egg" ; Times: 3
+	Query: "Boreal Owl" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 507 download events in this period)
+Total number of records downloaded: 7982
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "&#34;Doryfera ludovicae&#34;" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "&#34;Coeligena coeligena&#34;" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+
+
+End of report.
