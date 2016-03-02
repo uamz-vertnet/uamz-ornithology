@@ -1,0 +1,64 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 112
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Russia ; Times: 2
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lophornis delattrei" ; Times: 1
+	Query: "gbifdatasetid:84f728be-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; recordedby:WALKER" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 512 download events in this period)
+Total number of records downloaded: 401
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+
+
+End of report.
