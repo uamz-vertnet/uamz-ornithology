@@ -1,0 +1,87 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 75
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 3
+	Country: Russia ; Times: 18
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-05 ; Times: 4
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-09 ; Times: 3
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "penguin Skull" ; Times: 2
+	Query: "Crax rubra" ; Times: 1
+	Query: "elf" ; Times: 20
+	Query: "Athene cunicularia Canada 1" ; Times: 2
+	Query: "Great auk" ; Times: 2
+	Query: "Contopus sordidulus Alberta" ; Times: 1
+	Query: "Larus argentatus (British Columbia)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1312 download events in this period)
+Total number of records downloaded: 93
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "toucan" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
