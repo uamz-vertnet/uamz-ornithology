@@ -1,0 +1,86 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 234
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 5
+	Country: Russia ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:84f728be-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Alberta&#34;" ; Times: 2
+	Query: "&#34;University of Alberta Museums&#34; and edmonton" ; Times: 1
+	Query: "francolinus erckelii" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "great gray owl" ; Times: 1
+	Query: "University of Alberta and edmonton" ; Times: 1
+	Query: "Circus cyaneus AND Island" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "Contopus sordidulus Alberta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1052 download events in this period)
+Total number of records downloaded: 199
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 5
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "&#34;University of Alberta Museums&#34; and edmonton" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Alberta&#34;" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "magnolia warbler" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
