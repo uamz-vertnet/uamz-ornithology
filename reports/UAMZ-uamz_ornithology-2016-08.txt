@@ -1,0 +1,74 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 24
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 7
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-14 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "elf" ; Times: 5
+	Query: "dendragapus arizona" ; Times: 1
+	Query: "chaetocercus jourdanii" ; Times: 5
+	Query: "chaetocercus heliodor" ; Times: 1
+	Query: "type:specimen genus:Hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:cyanus genus:hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 924 download events in this period)
+Total number of records downloaded: 265
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+
+
+End of report.
