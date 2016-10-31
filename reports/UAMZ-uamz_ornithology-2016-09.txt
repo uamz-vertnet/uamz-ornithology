@@ -1,0 +1,72 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 154
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 1
+	Country: Portugal ; Times: 14
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-11 ; Times: 3
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-08 ; Times: 6
+	Date: 2016-09-09 ; Times: 6
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cygnus columbianus 1" ; Times: 1
+	Query: "Archilochus colubris 1" ; Times: 1
+	Query: "Chrysolophus pictus 1" ; Times: 2
+	Query: "Melopsittacus undulatus 1" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "genus:Empidonax (traillii OR alnorum OR difficilis) institutioncode:UAMZ" ; Times: 3
+	Query: "Pavo cristatus 1" ; Times: 1
+	Query: "Eudocimus ruber 1" ; Times: 2
+	Query: "Bubo scandiaca 1" ; Times: 1
+	Query: "Amazona farinosa 1" ; Times: 2
+	Query: "Bubo scandiacus 1" ; Times: 1
+	Query: "Chen rossii 1" ; Times: 1
+	Query: "Selasphorus rufus 1" ; Times: 1
+	Query: "Actophilornis africanus 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 811 download events in this period)
+Total number of records downloaded: 137
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 3
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "amazilia edward" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "Campylopterus falcatus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "genus:Empidonax (traillii OR alnorum OR difficilis) institutioncode:UAMZ" ; Times: 1
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "boissonneaua jardini" ; Times: 1
+
+
+End of report.
