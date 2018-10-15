@@ -1,0 +1,62 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 45
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: China ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-01 ; Times: 5
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Philadelphia Vireo sex:male" ; Times: 2
+	Query: "specificepithet:minor genus:chordeiles stateprovince:&#34;alberta&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "canada warbler" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "trumpeter swan" ; Times: 3
+	Query: "Rhynchotus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 674 download events in this period)
+Total number of records downloaded: 112
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "arremonops" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "kittiwake" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "Virginia Rail" ; Times: 1
+	Query: "king eider" ; Times: 1
+
+
+End of report.
