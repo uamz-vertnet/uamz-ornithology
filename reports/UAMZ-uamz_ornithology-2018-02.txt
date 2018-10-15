@@ -1,0 +1,122 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 83
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 14
+	Country: Portugal ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-09 ; Times: 5
+	Date: 2018-02-08 ; Times: 3
+	Date: 2018-02-01 ; Times: 3
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "red knot vntype:specimen year &gt;= 1800 year &lt;= 2000 month &gt;= 5 month &lt;= 5 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Alectoris chukar mappable:1" ; Times: 4
+	Query: "Diomedea epomophora sanfordi basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;northern pike&#34;" ; Times: 1
+	Query: "atlantic puffin" ; Times: 3
+	Query: "Aythya ferina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chauna chavaria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Diomedea epomophora basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oliver Jones" ; Times: 1
+	Query: "Melanitta fusca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Diomedea epomophora" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 2
+	Query: "Picoides pubescens Edmonton" ; Times: 1
+	Query: "Clangula hyemalis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Dendragapus obscurus stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Phasianus colchicus mappable:1" ; Times: 1
+	Query: "Picoides villosus alberta" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1892 download events in this period)
+Total number of records downloaded: 1076
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-20 ; Times: 6
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 3
+	Date: 2018-02-02 ; Times: 5
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 5
+	Date: 2018-02-05 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 3
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza" ; Times: 2
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "family:Phoenicopteridae hastissue:1" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "specificepithet:pica genus:Pica continent:North America" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "red knot" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
