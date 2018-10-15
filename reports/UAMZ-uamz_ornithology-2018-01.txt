@@ -1,0 +1,109 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 322
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-15 ; Times: 9
+	Date: 2018-01-22 ; Times: 7
+	Date: 2018-01-16 ; Times: 24
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Attila spadiceus" ; Times: 1
+	Query: "Phaeochroa cuvierii" ; Times: 1
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Ramphocelus sanguinolentus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Amblycercus holosericeus" ; Times: 1
+	Query: "Anas discors" ; Times: 1
+	Query: "Dendrocincla anabatina" ; Times: 1
+	Query: "Calidris himantopus" ; Times: 1
+	Query: "Thraupis abbas" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Buteo swainsoni nest" ; Times: 1
+	Query: "Oreothlypis virginiae" ; Times: 1
+	Query: "Calidris bairdii" ; Times: 1
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "Pheucticus ludovicianus" ; Times: 1
+	Query: "Anas americana" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "specificepithet:Falco sparverius sex:Female hassex:1" ; Times: 1
+	Query: "Lophornis helenae" ; Times: 1
+	Query: "distance(location,geopoint(41.2162770490001,-74.6272351235))&lt;13017" ; Times: 1
+	Query: "specificepithet:Falco sparverius" ; Times: 2
+	Query: "Actitis macularius" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "specificepithet:canadensis genus:perisoreus stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "american kestrel" ; Times: 2
+	Query: "Megascops Alberta" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Bubo virginianus Edmonton" ; Times: 1
+	Query: "Lampornis amethystinus" ; Times: 1
+	Query: "Strix nebulosa" ; Times: 3
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Eupherusa eximia" ; Times: 1
+	Query: "Phalaropus tricolor" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1398 download events in this period)
+Total number of records downloaded: 216
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 9
+	Country: Venezuela ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Nucifraga" ; Times: 1
+	Query: "Acrocephalus" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Falco sparverius&#34; vntype:specimen" ; Times: 1
+	Query: "Accipiter" ; Times: 1
+	Query: "Buteo swainsoni nest" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "Empidonax hammondii" ; Times: 1
+	Query: "class:Aves preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+
+
+End of report.
