@@ -1,0 +1,126 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 1205
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: United States ; Times: 75
+	Country: Unknown ; Times: 22
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-06 ; Times: 6
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-02 ; Times: 11
+	Date: 2018-03-03 ; Times: 6
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-05 ; Times: 7
+	Date: 2018-03-28 ; Times: 5
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-26 ; Times: 20
+	Date: 2018-03-27 ; Times: 16
+	Date: 2018-03-22 ; Times: 3
+	Date: 2018-03-23 ; Times: 19
+	Date: 2018-03-20 ; Times: 2
+	Date: 2018-03-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:84f728be-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;British Columbia&#34; institutioncode:UAMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "buteo swainsoni " ; Times: 17
+	Query: "genus:Casuarius specificepithet:Casuarius" ; Times: 5
+	Query: "specificepithet:canadensis genus:Perisoreus institutioncode:UAMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Scolopax specificepithet:rusticola" ; Times: 2
+	Query: "American Kestrel" ; Times: 2
+	Query: "Aves institutioncode:UAMZ hassex:1 hasmass:1" ; Times: 2
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 2
+	Query: "buteo swainsoni" ; Times: 4
+	Query: "genus:Steatornis specificepithet:caripensis" ; Times: 5
+	Query: "genus:Ardea specificepithet:cinerea" ; Times: 2
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1970" ; Times: 1
+	Query: "genus:Anas specificepithet:discors" ; Times: 3
+	Query: "vntype:specimen genus:Perisoreus institutioncode:UAMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pandion specificepithet:haliaetus" ; Times: 2
+	Query: "genus:Larus specificepithet:philadelphia" ; Times: 3
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 6
+	Query: "genus:Phasianus specificepithet:colchicus" ; Times: 5
+	Query: "genus:Dendragapus specificepithet:obscurus" ; Times: 2
+	Query: "specificepithet:Branta bernicla genus:branta family:anatidae order:anseriformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Perisoreus institutioncode:UAMZ" ; Times: 1
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 2
+	Query: "genus:Opisthocomus specificepithet:hoazin" ; Times: 2
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 5
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "Canada Warbler" ; Times: 1
+	Query: "Francolinus erckelii" ; Times: 1
+	Query: "genus:Coturnix specificepithet:coturnix" ; Times: 2
+	Query: "genus:Coccyzus specificepithet:Coccyzus erythropthalmus" ; Times: 6
+	Query: "specificepithet:erckelii genus:Francolinus" ; Times: 4
+	Query: "genus:Sphyrapicus specificepithet:varius" ; Times: 2
+	Query: "genus:Rhynchotus specificepithet:rufescens" ; Times: 5
+	Query: "Perisoreus canadensis institutioncode:UAMZ" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1284 download events in this period)
+Total number of records downloaded: 315
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 5
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax country:&#34;Canada&#34;" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "vntype:specimen genus:Perisoreus institutioncode:UAMZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "Grus americana" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "vntype:specimen class:Aves preparations:Wing" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "specificepithet:Branta bernicla genus:branta family:anatidae order:anseriformes" ; Times: 1
+	Query: "family:Corvidae hastissue:1" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Perisoreus institutioncode:UAMZ" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+	Query: "Alder Flycatcher" ; Times: 1
+
+
+End of report.
