@@ -1,0 +1,83 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 39
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 13
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-19 ; Times: 7
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-25 ; Times: 6
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "red-tailed hawk" ; Times: 1
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 4
+	Query: "specificepithet:virens genus:Dendroica class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 5
+	Query: "ptarmigan" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "specificepithet:excubitor genus:Lanius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gadwall Wing" ; Times: 3
+	Query: "specificepithet:nigricollis genus:Podiceps hastissue:1" ; Times: 1
+	Query: "willow ptarmigan" ; Times: 1
+	Query: "Clangula hyemalis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "red tail hawk" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1359 download events in this period)
+Total number of records downloaded: 113
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Yellow-bellied Flycatcher" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "Alder Flycatcher" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+
+
+End of report.
