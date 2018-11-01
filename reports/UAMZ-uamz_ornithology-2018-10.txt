@@ -1,0 +1,77 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 6
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-06 ; Times: 2
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-27 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "B5235" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "canada thistle" ; Times: 1
+	Query: "b1496" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:UAMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "king vulture" ; Times: 2
+	Query: "strix nebulosa" ; Times: 1
+	Query: "Accipiter gundlachi vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:nebulosa genus:strix (wing)" ; Times: 1
+	Query: "gyrfalcon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1300 download events in this period)
+Total number of records downloaded: 253
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Norway ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+
+
+End of report.
