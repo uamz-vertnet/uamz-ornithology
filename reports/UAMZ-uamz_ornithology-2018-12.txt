@@ -1,0 +1,75 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 12
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Burrowing owl" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "genus:Catharus recordedby:Harris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 809 download events in this period)
+Total number of records downloaded: 583
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: India ; Times: 9
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-17 ; Times: 7
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ramphastos" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "steatornis caripensis" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "strigidae" ; Times: 1
+
+
+End of report.
