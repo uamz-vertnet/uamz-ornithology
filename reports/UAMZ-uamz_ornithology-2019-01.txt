@@ -1,0 +1,94 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 54
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Poland ; Times: 2
+	Country: United States ; Times: 1
+	Country: Slovakia ; Times: 5
+	Country: Peru ; Times: 21
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-09 ; Times: 11
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 6
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lagopus genus:Lagopus country:&#34;Canada&#34; hastissue:1" ; Times: 1
+	Query: "Lophornis delattrei" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Pardirallus maculatus" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Coeligena inca" ; Times: 2
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "rose breasted grosbeak" ; Times: 1
+	Query: "Tinamiformes preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus hastissue:1" ; Times: 1
+	Query: "sharp-shinned hawk" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Tinamiformes vntype:specimen preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Steatornis caripensis" ; Times: 1
+	Query: "Canada Jay" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Tinamiformes vntype:specimen preparations:alcohol" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 962 download events in this period)
+Total number of records downloaded: 66
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "PIONUS SENILIS" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen)" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "Asio flammeus" ; Times: 1
+	Query: "rosy finch" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+
+
+End of report.
