@@ -1,0 +1,72 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 61
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-06 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "Tinamiformes vntype:specimen preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 4
+	Query: "specificepithet:bonasia genus:Tetrastes" ; Times: 1
+	Query: "atlantic puffin" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Chaetocercus jourdanii" ; Times: 2
+	Query: "B6560" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1281 download events in this period)
+Total number of records downloaded: 80
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "american coot" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "Chaetocercus jourdanii" ; Times: 1
+	Query: "Cacicus melanicterus" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "family:Picidae" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+
+
+End of report.
