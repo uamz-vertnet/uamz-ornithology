@@ -1,0 +1,115 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 433
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: United Kingdom ; Times: 11
+	Country: Sweden ; Times: 2
+	Country: Nepal ; Times: 3
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-08 ; Times: 9
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-02 ; Times: 7
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-12 ; Times: 9
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-05 ; Times: 7
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-30 ; Times: 2
+	Date: 2019-07-15 ; Times: 6
+	Date: 2019-07-17 ; Times: 4
+	Date: 2019-07-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pusilla genus:Wilsonia country:&#34;Canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "gbifdatasetid:84f728be-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "specificepithet:pusilla genus:wilsonia country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:philadelphia genus:Oporornis stateprovince:&#34;Alberta&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 2
+	Query: "genus:Coccyzus specificepithet:Coccyzus erythropthalmus" ; Times: 1
+	Query: "Blue-breasted Quail" ; Times: 2
+	Query: "genus:Empidonax stateprovince:&#34;Alberta&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:Aves recordedby:Girard" ; Times: 2
+	Query: "specificepithet:livia genus:columba country:&#34;canada&#34;" ; Times: 1
+	Query: "specificepithet:pusilla genus:Wilsonia stateprovince:&#34;Alberta&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Phasianus" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "genus:Anthus specificepithet:trivialis" ; Times: 1
+	Query: "specificepithet:Buteo jamaicensis" ; Times: 1
+	Query: "genus:Chloroceryle specificepithet:aenea" ; Times: 1
+	Query: "genus:Doryfera specificepithet:ludovicae" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 2
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Alberta&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "gbifdatasetid:84f728be-f762-11e1-a439-00145eb45e9a procellariiformes" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "specificepithet:philadelphia genus:Oporornis stateprovince:&#34;Alberta&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Pandion" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 4
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "genus:Eulampis specificepithet:jugularis" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "specificepithet:iliaca genus:passerella country:&#34;canada&#34; year &gt;= 1980" ; Times: 1
+	Query: "Diomedea sanfordi" ; Times: 4
+	Query: "genus:Eupherusa specificepithet:eximia" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus stateprovince:&#34;alberta&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 985 download events in this period)
+Total number of records downloaded: 6246
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Sweden ; Times: 1
+	Country: India ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 2
+	Date: 2019-07-02 ; Times: 4
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-16 ; Times: 2
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-31 ; Times: 9
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Branta bernicla" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:pusilla genus:Wilsonia stateprovince:&#34;Alberta&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:pusilla genus:Wilsonia country:&#34;Canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "crax rubra" ; Times: 8
+	Query: "specificepithet:philadelphia genus:Oporornis stateprovince:&#34;Alberta&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus stateprovince:&#34;alberta&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "Anser caerulescens" ; Times: 1
+	Query: "ornithology data base" ; Times: 1
+	Query: "specificepithet:pusilla genus:wilsonia country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "specificepithet:varius genus:Sphyrapicus country:&#34;canada&#34; month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Alberta&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+
+
+End of report.
