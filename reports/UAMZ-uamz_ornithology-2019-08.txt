@@ -1,0 +1,158 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 302
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 32
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 25
+	Country: Peru ; Times: 50
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-06 ; Times: 13
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 9
+	Date: 2019-08-14 ; Times: 50
+	Date: 2019-08-05 ; Times: 16
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-08 ; Times: 12
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-19 ; Times: 3
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Amazilia edward" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 1
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "Phoenicopterus ruber hastissue:1" ; Times: 1
+	Query: "Aglaeactis pamela" ; Times: 1
+	Query: "Anhinga rufa" ; Times: 1
+	Query: "Phaeochroa cuvierii" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Lophornis delattrei" ; Times: 1
+	Query: "Campylopterus falcatus" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Chauna chavaria" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 2
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "Calidris canutus" ; Times: 6
+	Query: "Chaetocercus jourdanii" ; Times: 3
+	Query: "Diomedea epomophora" ; Times: 1
+	Query: "Pardirallus maculatus" ; Times: 1
+	Query: "Chlorostilbon gibsoni" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "Amazilia saucerrottei" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 2
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Amazilia amabilis" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 2
+	Query: "Amazilia viridigaster" ; Times: 1
+	Query: "epomophora sanfordi" ; Times: 6
+	Query: "diomedea epomophora" ; Times: 1
+	Query: "Oreotrochilus chimborazo" ; Times: 1
+	Query: "Nycticryphes semicollaris" ; Times: 1
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Pheucticus ludovicianus" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Alectoris" ; Times: 2
+	Query: "Crax rubra" ; Times: 1
+	Query: "Campylopterus ensipennis" ; Times: 1
+	Query: "Chrysomus ruficapillus" ; Times: 2
+	Query: "Buteo lagopus" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Boissonneaua jardini" ; Times: 1
+	Query: "Lophornis ornata" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Otis tarda" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 10
+	Query: "oceanodroma leucorhoa guadalupe year &gt;= 1955 year &lt;= 2019" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "specificepithet:coccothraustes genus:coccothraustes year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 3
+	Query: "Discosura conversii" ; Times: 1
+	Query: "Heliangelus mavors" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Heteronetta atricapilla" ; Times: 1
+	Query: "Boissonneaua flavescens" ; Times: 1
+	Query: "Rhea americana" ; Times: 2
+	Query: "Nothura maculosa" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1034 download events in this period)
+Total number of records downloaded: 68
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Fiji ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 7
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-25 ; Times: 5
+	Date: 2019-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "oceanodroma leucorhoa guadalupe year &gt;= 1955 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen family:Rallidae hastissue:1" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "family:Accipitridae" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "crax rubra" ; Times: 4
+	Query: "Anser albifrons" ; Times: 1
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "genus:Accipiter" ; Times: 1
+	Query: "Lophornis ornata" ; Times: 1
+	Query: "junco hyemalis" ; Times: 1
+	Query: "Mountain Quail" ; Times: 1
+	Query: "stateprovince:&#34;imbabura&#34; country:&#34;ecuador&#34;" ; Times: 1
+
+
+End of report.
