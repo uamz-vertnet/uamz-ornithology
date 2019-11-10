@@ -1,0 +1,114 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 210
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 42
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 5
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 32
+	Date: 2019-09-05 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Apteryx" ; Times: 1
+	Query: "B1362" ; Times: 1
+	Query: "specificepithet:pusilla genus:wilsonia country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "yellow-tailed oriole veracruz" ; Times: 1
+	Query: "specificepithet:striata genus:Butorides class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Accipiter gundlachi" ; Times: 1
+	Query: "sharp tailed grouse" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "mourning dove wing" ; Times: 1
+	Query: "Pinguinus" ; Times: 2
+	Query: "Calidris canutus" ; Times: 15
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "Accipiter gundlachi vntype:specimen" ; Times: 1
+	Query: "palumbus Columba" ; Times: 3
+	Query: "Dryocopus pileatus skeleton" ; Times: 2
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 2
+	Query: "peregrin falcon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1073 download events in this period)
+Total number of records downloaded: 229
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 21
+	Country: Rwanda ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 12
+	Date: 2019-09-11 ; Times: 11
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucis hirsuta" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "Chlorestes notatus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Amazilia viridigaster" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Myrtis fanny" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "Anthracothorax nigricollis" ; Times: 1
+
+
+End of report.
