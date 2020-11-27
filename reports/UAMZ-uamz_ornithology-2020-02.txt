@@ -1,0 +1,85 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 163
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 18
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-20 ; Times: 5
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-18 ; Times: 13
+	Date: 2020-02-28 ; Times: 2
+	Date: 2020-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "accipiter gundlachi year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "Callipepla douglasii" ; Times: 1
+	Query: "Oceanodroma leucorhoa guadalupe year &gt;= 1965 year &lt;= 2020" ; Times: 1
+	Query: "atlantic puffin" ; Times: 1
+	Query: "accipiter gundlachi vntype:specimen year &gt;= 1940 year &lt;= 2020" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:UAMZ" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "great Auk" ; Times: 1
+	Query: "preparations:skull institutioncode:UAMZ" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:UAMZ" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 1
+	Query: "Greater Sage Grouse" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen Greater Sage Grouse" ; Times: 1
+	Query: "Oceanodroma leucorhoa guadalupe year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:UAMZ" ; Times: 1
+	Query: "Elegant Quail" ; Times: 1
+	Query: "rusty blackbird" ; Times: 1
+	Query: "accipiter gundlachi vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 13
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1023 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Guyana ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tyto alba" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+
+
+End of report.
