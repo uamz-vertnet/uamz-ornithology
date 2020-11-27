@@ -1,0 +1,72 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 50
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: Canada ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-18 ; Times: 4
+	Date: 2020-03-19 ; Times: 3
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-13 ; Times: 4
+	Date: 2020-03-03 ; Times: 3
+	Date: 2020-03-11 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Diomedea epomophora sanfordi" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "great auk" ; Times: 3
+	Query: "Calgary Zoo" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "evening grosbeak" ; Times: 4
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+	Query: "Callipepla douglasii lifestage:immature" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 11
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 853 download events in this period)
+Total number of records downloaded: 169
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "dickcissel" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Icterus gularis" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "northern flicker" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+
+
+End of report.
