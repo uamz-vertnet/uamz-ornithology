@@ -1,0 +1,76 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 46
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-27 ; Times: 3
+	Date: 2020-01-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "American kestrel" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:UAMZ" ; Times: 1
+	Query: "poorwill canada" ; Times: 1
+	Query: "Melanitta fusca hastissue:1" ; Times: 1
+	Query: "Greylag goose" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "short eared owl" ; Times: 1
+	Query: "Common pochard" ; Times: 1
+	Query: "aristotelis Phalacrocorax" ; Times: 1
+	Query: "common poorwill" ; Times: 1
+	Query: "Northern shoveler" ; Times: 1
+	Query: "vntype:specimen order:procellariiformes institutioncode:UAMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Calgary Zoo" ; Times: 1
+	Query: "boreal owl" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1584 download events in this period)
+Total number of records downloaded: 327
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "eulampis jugularis" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+
+
+End of report.
