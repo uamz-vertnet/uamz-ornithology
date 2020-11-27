@@ -1,0 +1,133 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 239
+Number of records retrieved in searches: 509
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 209
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: India ; Times: 3
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-05 ; Times: 6
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 7
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 24
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 3
+	Date: 2020-04-07 ; Times: 83
+	Date: 2020-04-26 ; Times: 3
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-03 ; Times: 38
+	Date: 2020-04-21 ; Times: 48
+	Date: 2020-04-08 ; Times: 18
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Amazilia edward" ; Times: 3
+	Query: "specificepithet:Larus occidentalis" ; Times: 1
+	Query: "Anhinga rufa" ; Times: 7
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "Hylocharis cyanus" ; Times: 7
+	Query: "Calliphlox amethystina" ; Times: 3
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "BLACK FRANCOLIN" ; Times: 2
+	Query: "vntype:specimen specificepithet:Phalacrocorax auritus" ; Times: 1
+	Query: "American Kestrel" ; Times: 1
+	Query: "Amazilia saucerrottei" ; Times: 3
+	Query: "specificepithet:eburnea genus:Pagophila class:Aves country:&#34;Canada&#34; continent:North America institutioncode:UAMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhea americana" ; Times: 3
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "coturnix chinensis" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Anas strepera" ; Times: 13
+	Query: "Amazilia amabilis" ; Times: 3
+	Query: "Pagophila eburnea" ; Times: 6
+	Query: "Buteo lagopus" ; Times: 6
+	Query: "Amazilia viridigaster" ; Times: 3
+	Query: "specificepithet:Larus argentatus" ; Times: 2
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "Bubo scandiacus sex:female" ; Times: 1
+	Query: "Amazilia fimbriata" ; Times: 3
+	Query: "specificepithet:Phalacrocorax auritus" ; Times: 1
+	Query: "Columba palumbus" ; Times: 3
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "Pheucticus ludovicianus" ; Times: 8
+	Query: "vntype:specimen specificepithet:Phalacrocorax auritus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chauvin" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 2
+	Query: "Acridotheres cristatellus" ; Times: 2
+	Query: "Crax rubra" ; Times: 3
+	Query: "Anas platyrhynchos lifestage:immature sex:female AND (NOT diazi)" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 4
+	Query: "Chrysomus ruficapillus" ; Times: 2
+	Query: "Aythya ferina" ; Times: 11
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "B5659" ; Times: 1
+	Query: "Alectoris barbara" ; Times: 6
+	Query: "Anas platyrhynchos lifestage:immature sex:male AND (NOT diazi)" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 3
+	Query: "rose-breasted grosbeak" ; Times: 2
+	Query: "Grus monacha" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "B2116" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 5
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Anser albifrons" ; Times: 10
+	Query: "Aethia psittacula" ; Times: 6
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Tachycineta leucorrhoa" ; Times: 7
+	Query: "B6146" ; Times: 2
+	Query: "Butorides striata" ; Times: 9
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Anas clypeata" ; Times: 13
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1171 download events in this period)
+Total number of records downloaded: 170
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-27 ; Times: 4
+	Date: 2020-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+
+
+End of report.
