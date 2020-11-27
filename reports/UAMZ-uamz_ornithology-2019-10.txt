@@ -1,0 +1,89 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 181
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 15
+	Country: India ; Times: 21
+	Country: France ; Times: 1
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-24 ; Times: 10
+	Date: 2019-10-01 ; Times: 10
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-12 ; Times: 9
+	Date: 2019-10-23 ; Times: 5
+	Date: 2019-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "albolarvatus Picoides" ; Times: 2
+	Query: "specificepithet:ustulatus genus:catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Poecile gambeli alberta" ; Times: 1
+	Query: "specificepithet:ruber genus:Eudocimus country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Apteryx hastissue:1" ; Times: 19
+	Query: "common quail" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "Charadrius melodus 2016" ; Times: 1
+	Query: "Charadrius melodus 2015" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "white-throated sparrow" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Guadalupe AND 1968 NOT Crossin" ; Times: 1
+	Query: "yellow-bellied sapsucker" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "Oceanodroma leucorhoa AND Guadalupe AND 1968" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1308 download events in this period)
+Total number of records downloaded: 127
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "colinus virginianus" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "amethystina" ; Times: 1
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+
+
+End of report.
