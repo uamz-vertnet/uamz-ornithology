@@ -1,0 +1,96 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 247
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 35
+	Country: United States ; Times: 34
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 8
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-09 ; Times: 5
+	Date: 2020-05-07 ; Times: 24
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-05 ; Times: 6
+	Date: 2020-05-01 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos (ws OR wingspan OR wing span)" ; Times: 4
+	Query: "Falco sparverius ws OR wingspan OR wing+span" ; Times: 7
+	Query: "Aquila chrysaetos ws OR wingspan OR wing span" ; Times: 6
+	Query: "american kestrel year &gt;= 1990 year &lt;= 2019 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "American Kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "American Kestrel" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:female" ; Times: 1
+	Query: "genus:colinus stateprovince:&#34;tennessee&#34;" ; Times: 8
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:female" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "Chauvin" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:male" ; Times: 2
+	Query: "Larus delawarensis ws OR wingspan OR wing+span" ; Times: 7
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "american kestrel" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas sex:female" ; Times: 1
+	Query: "Aquila chrysaetos ws OR wingspan OR wing+span" ; Times: 8
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:carduelis genus:Carduelis continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Falco columbarius ws OR wingspan OR wing span AND mature OR adult OR ad" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:female" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1106 download events in this period)
+Total number of records downloaded: 36
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "petechia" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "american kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+
+End of report.
