@@ -1,0 +1,105 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 107
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 16
+	Country: United Kingdom ; Times: 13
+	Country: Austria ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-13 ; Times: 29
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "scientificname:Crax rubra" ; Times: 1
+	Query: "specificepithet:australis genus:Apteryx hastissue:1" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "stateprovince:&#34;Newfoundland&#34; institutioncode:UAMZ" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 16
+	Query: "genus:Apteryx hastissue:1" ; Times: 1
+	Query: "specificepithet:monacha genus:Grus" ; Times: 1
+	Query: "scientificname:Psittacula eupatria" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "Blakiston" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "Morus bassanus" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1521 download events in this period)
+Total number of records downloaded: 195
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 5
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-28 ; Times: 3
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-06 ; Times: 2
+	Date: 2020-10-23 ; Times: 6
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Amazilia" ; Times: 2
+	Query: "genus:Melanerpes aurifrons country:&#34;México&#34;" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "family:Gruidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Melanerpes country:&#34;México&#34;" ; Times: 2
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:albifrons genus:Sterna" ; Times: 1
+	Query: "white-winged dove" ; Times: 1
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "&#34;Black-throated Blue Warbler&#34; year &gt;= 1800 year &lt;= 1980" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "bald eagle" ; Times: 2
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:coruscans genus:Colibri" ; Times: 1
+	Query: "family:Ardeidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen family:Bucorvidae" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+
+
+End of report.
