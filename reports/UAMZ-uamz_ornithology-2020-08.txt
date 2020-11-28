@@ -1,0 +1,116 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 165
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: United Kingdom ; Times: 21
+	Country: Ireland ; Times: 1
+	Country: Canada ; Times: 6
+	Country: Portugal ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-11 ; Times: 7
+	Date: 2020-08-10 ; Times: 14
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-04 ; Times: 3
+	Date: 2020-08-12 ; Times: 8
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-26 ; Times: 3
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-25 ; Times: 4
+	Date: 2020-08-21 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "Blakiston Canada" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Ocreatus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "Soper Alberta Molothrus ater" ; Times: 1
+	Query: "specificepithet:eos genus:Coeligena" ; Times: 2
+	Query: "specificepithet:chimborazo genus:Oreotrochilus family:Trochilidae" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "specificepithet:vestitus genus:Eriocnemis country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "ovenbird egg" ; Times: 3
+	Query: "specificepithet:mavors genus:Heliangelus" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Phasianus colchicus" ; Times: 1
+	Query: "specificepithet:pamela genus:Aglaeactis" ; Times: 5
+	Query: "specificepithet:viridigaster genus:Amazilia" ; Times: 1
+	Query: "Periparus ater" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Anas strepera" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "B4027" ; Times: 1
+	Query: "mappable:1 scientificname:Alectoris chukar" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "Columba palumbus" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Ixoreus naevius" ; Times: 1
+	Query: "Falcipennis falcipennis" ; Times: 1
+	Query: "Psittacula eupatria" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "specificepithet:jourdanii genus:Chaetocercus" ; Times: 3
+	Query: "specificepithet:delattrei genus:Lophornis" ; Times: 1
+	Query: "specificepithet:buffonii genus:Chalybura" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "Blakiston" ; Times: 5
+	Query: "aves nematode" ; Times: 1
+	Query: "Acridotheres cristatellus" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 2
+	Query: "specificepithet:gibsoni genus:Chlorostilbon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:buffonii genus:Chalybura country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:vestitus genus:Eriocnemis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 1
+	Query: "specificepithet:nuna genus:Lesbia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 756 download events in this period)
+Total number of records downloaded: 214
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 1
+	Query: "class:Aves country:&#34;Zimbabwe&#34; continent:Africa" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "Warbling Vireo" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:impennis genus:pinguinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+
+
+End of report.
