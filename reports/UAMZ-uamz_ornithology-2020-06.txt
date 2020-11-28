@@ -1,0 +1,65 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 94
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-10 ; Times: 6
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sharp-tailed grouse" ; Times: 1
+	Query: "Pinguinus impennis preparations:Skeleton" ; Times: 1
+	Query: "Anas strepera" ; Times: 6
+	Query: "great auk" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "Anas clypeata" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 474 download events in this period)
+Total number of records downloaded: 90
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 5
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-10 ; Times: 7
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bald eagle" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "elf owl" ; Times: 3
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:douglasii order:galliformes" ; Times: 1
+	Query: "Chrysolampis Venezuela" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+
+
+End of report.
