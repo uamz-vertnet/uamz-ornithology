@@ -1,0 +1,89 @@
+Report for Institution Code UAMZ, Resource uamz_ornithology
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 37
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 7
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 2
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-04 ; Times: 7
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "emmae" ; Times: 1
+	Query: "mallards" ; Times: 1
+	Query: "mappable:1 scientificname:Athene cunicularia" ; Times: 2
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 1
+	Query: "Steatornis caripensis" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Anser albifrons" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "Chrysomus ruficapillus" ; Times: 2
+	Query: "Butorides striata" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 3
+	Query: "mappable:1 scientificname:Arenaria interpres" ; Times: 2
+	Query: "otis tarda" ; Times: 1
+	Query: "mappable:1 scientificname:Actitis macularius" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "elf" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 705 download events in this period)
+Total number of records downloaded: 1187
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 8
+	Country: India ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-12 ; Times: 4
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "mallards" ; Times: 1
+	Query: "family:Trochilidae preparations:wing" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 3
+	Query: "family:anatidae" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+
+
+End of report.
